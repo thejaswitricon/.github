@@ -2,10 +2,5 @@
     "name": "Demo",
     "description": "Demo CI starter workflow.",
     "iconName": "nodejs",
-    "categories": ["Continuous integration", "JavaScript", "npm", "React", "Angular", "Vue"],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "categories": ["Continuous integration", "JavaScript", "npm", "React", "Angular", "Vue"]
 }
