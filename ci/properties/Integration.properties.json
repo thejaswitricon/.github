@@ -1,6 +1,6 @@
 {
     "name": "Demo",
     "description": "Demo CI starter workflow.",
-    "iconName": "nodejs",
+    "iconName": "octicon circle-slash",
     "categories": ["Continuous integration", "JavaScript", "npm", "React", "Angular", "Vue"]
 }
