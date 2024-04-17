@@ -1,6 +1,6 @@
 {
-    "name": "Integration Workflow",
-    "description": "Integration CI starter workflow.",
+    "name": "Demo Workflow",
+    "description": "Demo CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
         "Go"
